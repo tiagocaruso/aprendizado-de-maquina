@@ -8,7 +8,7 @@ backports.shutil-get-terminal-size==1.0.0
 backports.weakref==1.0.post1
 bleach==3.1.4
 cachetools==3.1.1
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 configparser==4.0.2
 contextlib2==0.6.0.post1
